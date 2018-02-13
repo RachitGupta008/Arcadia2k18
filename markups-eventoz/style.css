@@ -1758,3 +1758,11 @@ button:focus {
 input.form-control,#events {
 	font-size: 15px;
 }
+
+/*tech events */
+#mu-tech {
+	display: inline;
+	float: left;
+	width: 100%;
+	background-color: #B4D8E7;
+}
