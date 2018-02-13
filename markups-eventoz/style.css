@@ -1766,3 +1766,15 @@ input.form-control,#events {
 	width: 100%;
 	background-color: #B4D8E7;
 }
+/*stage events */
+#mu-stage {
+	display: inline;
+	float: left;
+	width: 100%;
+	background-color: #B0E57C;
+}
+
+.sub{
+list-style-type:circle;
+margin-left: 30px;
+}
