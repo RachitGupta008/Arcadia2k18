@@ -1,0 +1,76 @@
+
+/* Tech events */
+.circle {
+  background-color: #a6d857;
+  border: 15px solid #f6f6f7;
+  border-radius: 50%;
+  box-shadow: 0 14px 0 0 #4c6ba8;
+  height: 300px;
+  margin: 5rem auto;
+  width: 300px;
+}
+
+.bezel {
+  background-color: #201e1d;
+  border-radius: 8px;
+  height: 80px;
+  margin: 105px auto 0;
+  padding: 4px;
+  width: 120px;
+}
+
+.cam {
+  background-color: #fbfffb;
+  border-radius: 50%;
+  height: 3px;
+  margin: 0 auto 3px;
+  width: 3px;
+}
+
+.screen {
+  background-color: #ffaa10;
+  color: #f6f6f7;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 4.8rem;
+  font-weight: 700;
+  height: 64px;
+  line-height: 6.4rem;
+  margin: 0 auto;
+  text-align: center;
+  text-shadow: 1px 0px 1px #dc8e00, 0px 1px 1px #f69e00, 2px 1px 1px #dc8e00;
+  width: 110px;
+}
+
+.body {
+  background-color: #e7e7e7;
+  border-radius: 15px;
+  height: 13px;
+  margin: -7px 72px 0;
+  position: absolute;
+  width: 156px;
+  z-index: 100;
+}
+
+.clasp {
+  background-color: #b5b5bd;
+  border-radius: 0 0 7px 7px;
+  height: 5px;
+  margin: 0 auto;
+  width: 35px;
+}
+
+.power {
+  background-color: #a80000;
+  border-radius: 4px;
+  height: 3px;
+  margin: 0 0 0 140px;
+  width: 8px;
+}
+
+.shadow {
+  background-color: #82a261;
+  border-radius: 10px;
+  height: 10px;
+  margin: 0px auto;
+  width: 170px;
+}
